@@ -1,1 +1,1 @@
-https://github.com/DanigfDev/single-page-cv.git
+https://github.com/DanigfDev/single-page-cv
